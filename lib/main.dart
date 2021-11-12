@@ -13,7 +13,6 @@ class _StaggerDemoState extends State<StaggerDemo>
   late Animation<double> width;
   late Animation<double> height;
   late Animation<EdgeInsets> padding;
-  late Animation<BorderRadius?> borderRadius;
   late Animation<Color?> color;
 
   @override
